@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/message_received_inbox_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginRight="50dp"
+        android:elevation="8dp">
+
+        <ImageView
+            android:id="@+id/received_inbox_pro_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/auction_img_1" />
+
+        <TextView
+            android:id="@+id/received_inbox_pro_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/received_inbox_pro_img"
+            android:text="Iphone 13 Pro Max màu xanh dương"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/received_inbox_pro_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/received_inbox_pro_title"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/received_inbox_pro_img"
+            android:fontFamily="@font/muli_black"
+            android:text="50k"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/message_inbox_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message_received_inbox_product"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="50dp"
+        android:padding="10dp"
+        android:elevation="8dp">
+
+        <ImageView
+            android:id="@+id/inbox_pro_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/auction_img_1" />
+
+        <TextView
+            android:id="@+id/inbox_pro_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/inbox_pro_img"
+            android:text="Iphone 13 Pro Max màu xanh dương"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/inbox_pro_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/inbox_pro_title"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/inbox_pro_img"
+            android:fontFamily="@font/muli_black"
+            android:text="50k"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message_inbox_product">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/message_profile_image"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:src="@drawable/profile_img" />
+
+        <TextView
+            android:id="@+id/receiver_message_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="2dp"
+            android:layout_toEndOf="@+id/message_profile_image"
+            android:background="@drawable/receiver_message_text_background"
+            android:padding="10dp"
+            android:text="receiver message"
+            android:textColor="@color/lightWhite"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sender_message_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="@+id/receiver_message_text"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/sender_message_text_background"
+            android:padding="10dp"
+            android:text="sender message"
+            android:textColor="@color/lightWhite"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

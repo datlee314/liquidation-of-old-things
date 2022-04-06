@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="TRANG CHỦ"
+            android:icon="@drawable/menu_dashboard_icon"/>
+        <item
+            android:id="@+id/nav_search"
+            android:title="TÌM KIẾM"
+            android:icon="@drawable/search_icon"/>
+        <item
+            android:id="@+id/nav_messages"
+            android:title="Messages"
+            android:icon="@drawable/menu_chat_message_icon"
+            android:iconTint="@color/black"/>
+        <item
+            android:id="@+id/SPcuaban"
+            android:title="SẢN PHẨM CỦA BẠN"
+            android:icon="@drawable/menu_my_products"
+            android:iconTint="@color/black"/>
+        <item
+            android:id="@+id/nav_all_categories"
+            android:title="TẤT CẢ DANH MỤC"
+            android:icon="@drawable/menu_categories_icon"/>
+        <item
+            android:id="@+id/nav_liquidation"
+            android:title="THANH LÝ"
+            android:icon="@drawable/menu_liquidation_icon"/>
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Thông tin cá nhân"
+            android:icon="@drawable/menu_profile_icon"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Đăng xuất"
+            android:icon="@drawable/menu_logout_icon"/>
+    </group>
+
+    <item android:title="Danh mục">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_technology"
+                    android:title="Đồ công nghệ"
+                    android:icon="@drawable/technology_icon"/>
+                <item
+                    android:id="@+id/nav_furniture"
+                    android:title="Đấu giá"
+                    android:icon="@drawable/auction_icon"/>
+                <item
+                    android:id="@+id/nav_clothes"
+                    android:title="Quần áo"
+                    android:icon="@drawable/clothes_icon"/>
+                <item
+                    android:id="@+id/nav_sur_pro"
+                    android:title="Quanh đây"
+                    android:icon="@drawable/local_icon"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Chia sẽ">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_share"
+                    android:title="Chia sẽ"
+                    android:icon="@drawable/menu_share_icon"/>
+                <item
+                    android:id="@+id/nav_rate_us"
+                    android:title="Đánh giá ứng dụng"
+                    android:icon="@drawable/menu_rate_us_icon"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/sdkl/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/drawable/favorite_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_comments.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_login.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_main_qlsp.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_main_update.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_phone_auth.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_pro_detail.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_pro_file_customer.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_product_detail.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_user_favorite_product.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_user_profile.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/all_comments_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/all_favorites_products_layout.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/message_layout_of_users.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/surroundings_products_card_design.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/drawable-v24/receiver_message_text_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/activity_chat.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/activity_contracts.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/activity_pro_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/activity_product_detail.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/activity_user_dash_board.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/all_users_display_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/app_bar_layout.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/chat_custom_bar.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/message_layout_of_users.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/layout/surroundings_products_card_design.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/TLDC/ThanhLyDoCu/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/ic_baseline_security_24.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable-v24/input_bg.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable/button_bg.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable/next_icon.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/drawable/vie_bg.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/activity_introductory.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.24365942028985507" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/login_tab_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Test/app/src/main/res/layout/signup_tab_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable-v24/input_bg.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/black_border.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/blue_circle.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/button_bg.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/button_bg1.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/button_follow_up_bg.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/card1.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/card_2.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/card_3.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/card_4.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/ctr_bg.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/input_bg1.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/layout_bg.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/product_detail_bg.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/product_detail_tag_border.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/white_border.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/white_circle.xml" value="0.2712820512820513" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/font/berkshire_swash.xml" value="0.28512820512820514" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_all_categories.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_facebook_auth.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_forget_password.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_forget_password_success_message.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_introductory.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_make_selection.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_manage_otp.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_phone_auth.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_product_detail.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_products.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_new_password.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile1.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile2.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile3.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_user_dash_board.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_verify_otp.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_welcome.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/auction_card_design.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/categories_card_design.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/login_tab_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/menu_header.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/signup_tab_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/surroundings_products_card_design.xml" value="0.23822463768115942" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/menu/main_menu.xml" value="0.259375" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/ic_baseline_local_mall_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/muiten.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/nguoidung.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/drawable/post_liquidation_img_bg.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_acti_call.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_all_categories.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_categories.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_forget_password.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_forget_password_success_message.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_introductory.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_login.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_activitychitiet.xml" value="0.1118659420289855" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_activitytimkiem.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_post.xml" value="0.25" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_prodect_detail.xml" value="0.16" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_qlsp.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_sms.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_main_update.xml" value="0.11413043478260869" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_mainseach.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_make_selection.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_manage_otp.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_phone_auth.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_post.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_pro_file_customer.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_product_detail.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_new_password.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile1.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile2.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_set_up_profile3.xml" value="0.1381340579710145" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_sms.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_user_dash_board.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_user_profile.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_verify_otp.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/activity_welcome.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/auction_card_design.xml" value="0.5" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/categories_card_design.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/donghinhanh.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.10507246376811594" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.10507246376811594" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/item_search.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/item_search1.xml" value="0.2" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/item_user.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/login_tab_fragment.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/menu_header.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/signup_tab_fragment.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/layout/surroundings_products_card_design.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/ThanhLyDoCu/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/tldc/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/tldc/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/activity_pro_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Hai Dang/AndroidStudioProjects/tldc/ThanhLyDoCu/ThanhLyDoCu/app/src/main/res/layout/message_layout_of_users.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

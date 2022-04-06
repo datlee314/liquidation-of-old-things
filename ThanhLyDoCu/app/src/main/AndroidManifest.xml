@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Test">
+        <activity
+            android:name=".User.CommentsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".User.UserFavoriteProduct"
+            android:exported="true" />
+        <activity
+            android:name=".User.ContactsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".User.ProDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".User.ChatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".User.ProFileCustomer"
+            android:exported="false" />
+        <activity
+            android:name=".User.MainUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".User.MainQLSP"
+            android:exported="false" />
+        <activity
+            android:name=".User.MainPost"
+            android:exported="false" />
+        <activity
+            android:name=".User.MainActivitySMS"
+            android:exported="false" />
+        <activity
+            android:name=".User.Categories"
+            android:exported="false" />
+        <activity
+            android:name=".User.PostActi"
+            android:exported="false"
+            android:label="@string/title_activity_post" />
+        <activity
+            android:name=".User.MainActivityProdectDetail"
+            android:exported="false" />
+        <activity
+            android:name=".User.Mainseach"
+            android:exported="false" />
+        <activity
+            android:name=".User.ProductDetail"
+            android:exported="true" />
+        <activity
+            android:name=".SetUpProfile.WelcomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SetUpProfile.VerifyOTP"
+            android:exported="true" />
+        <activity
+            android:name=".SetUpProfile.SetUpProfile3"
+            android:exported="true" />
+        <activity
+            android:name=".SetUpProfile.SetUpProfile2"
+            android:exported="true" />
+        <activity
+            android:name=".SetUpProfile.SetUpProfile1"
+            android:exported="true" />
+        <activity
+            android:name=".User.UserProfile"
+            android:exported="true" />
+        <activity
+            android:name=".User.AllCategories"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPassword.ForgetPasswordSuccessMessage"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPassword.MakeSelection"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPassword.SetNewPassword"
+            android:exported="true" />
+        <activity
+            android:name=".ForgetPassword.ForgetPassword"
+            android:exported="true" />
+        <activity
+            android:name=".LoginAndRegister.ManageOTP"
+            android:exported="true" />
+        <activity
+            android:name=".LoginAndRegister.PhoneAuth"
+            android:exported="true" />
+        <activity
+            android:name=".LoginAndRegister.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Introductory.IntroductoryActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".User.UserDashBoard"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+    </application>
+
+</manifest>

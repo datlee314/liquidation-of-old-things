@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Thanh lý đồ cũ</string>
+    <string name="facebook_app_id">526639855102423</string>
+    <string name="fb_login_protocol_scheme">fb526639855102423</string>
+
+    //Product_detail
+    <string name="product_detail_description">Iphone 13 Pro Max mua được 3 hôm thiếu tiền nên bán. Các vị huynh đài đi qua đi lại thấy hay thì click quan tâm và contract với tôi để biết thêm chi tiết</string>
+    <string name="product_detail_distance">>2km</string>
+    <string name="title_activity_post">PostActi</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_sms">SMS</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

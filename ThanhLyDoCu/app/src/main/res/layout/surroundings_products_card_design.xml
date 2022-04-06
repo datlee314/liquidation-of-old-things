@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:layout_column="2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/sur_pro_img"
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/auction_img_1" />
+
+        <TextView
+            android:id="@+id/sur_pro_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/sur_pro_img"
+            android:text="Iphone 13 Pro Max màu xanh dương"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/sur_pro_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="50k"
+            android:layout_toRightOf="@+id/sur_pro_img"
+            android:layout_below="@+id/sur_pro_title"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/muli_black"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/sur_pro_local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Buôn đôn"
+            android:layout_toRightOf="@+id/sur_pro_img"
+            android:layout_below="@+id/sur_pro_price"
+            android:textSize="20dp"
+            android:drawableStart="@drawable/surroundings_products_img"
+            android:layout_marginLeft="10dp"
+            android:drawablePadding="10dp"
+            android:drawableTint="@color/Gray" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

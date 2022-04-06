@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@color/lightWhite"
+    android:paddingLeft="15dp">
+
+    <TextView
+        android:id="@+id/menu_slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thanh lý tất cả những gì bạn muốn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thanh lý đồ cũ"
+        android:fontFamily="@font/acme"
+        android:textSize="24sp"
+        android:textColor="@color/Brown"
+        android:layout_above="@id/menu_slogan"
+        android:layout_marginLeft="15dp" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/new_final_logo"
+        android:layout_above="@+id/app_name"
+        android:layout_marginLeft="15dp"/>
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="175dp"
+        android:src="@drawable/half_car"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+    
+</RelativeLayout>

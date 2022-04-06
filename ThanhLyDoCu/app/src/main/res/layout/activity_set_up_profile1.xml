@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".SetUpProfile.SetUpProfile1"
+    android:background="@color/com_facebook_blue"
+    android:padding="30dp"
+    android:transitionName="transition_signup">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/setup_back_btn"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/general_back_icon"
+                    android:padding="5dp"
+                    app:tint="@color/white"
+                    android:transitionName="transition_back_arrow_btn"/>
+
+                <ImageView
+                    android:layout_width="90dp"
+                    android:layout_height="90dp"
+                    android:layout_alignParentRight="true"
+                    android:padding="5dp"
+                    android:src="@drawable/one_third_img"
+                    app:tint="@color/white" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/setup_title_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Để sử dụng ứng dụng hiệu quả hơn vui lòng thiết lập thông tin cá nhân"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:fontFamily="@font/muli_black"
+                android:textAllCaps="true"
+                android:transitionName="transition_title_text" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="50dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:layout_marginTop="32dp"
+                    android:src="@drawable/profile_img"
+                    app:civ_border_color="#FAF9F9"
+                    app:civ_border_width="2dp"
+                    android:layout_gravity="center"/>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/setup_full_name"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Họ và tên"
+                    android:textColorHint="@color/white"
+                    app:startIconDrawable="@drawable/field_full_name"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:hintTextColor="@color/white"
+                    app:startIconTint="@color/white"
+                    app:endIconMode="clear_text"
+                    app:endIconTint="@color/white"
+                    app:boxStrokeColor="@color/white"
+                    app:boxStrokeWidthFocused="2dp">
+
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/setup_user_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Tên đăng nhập"
+                    android:textColorHint="@color/white"
+                    app:startIconDrawable="@drawable/field_user_name"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:hintTextColor="@color/white"
+                    app:startIconTint="@color/white"
+                    app:endIconMode="clear_text"
+                    app:endIconTint="@color/white"
+                    app:boxStrokeColor="@color/white"
+                    app:boxStrokeWidthFocused="2dp">
+
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/setup_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Địa chỉ"
+                    android:textColorHint="@color/white"
+                    app:startIconDrawable="@drawable/home_address_icon"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:hintTextColor="@color/white"
+                    app:startIconTint="@color/white"
+                    app:endIconMode="clear_text"
+                    app:endIconTint="@color/white"
+                    app:boxStrokeColor="@color/white"
+                    app:boxStrokeWidthFocused="2dp">
+
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/setup_next_btn"
+                    android:layout_marginTop="30dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_bg1"
+                    android:text="Tiếp theo"
+                    android:textSize="20sp"
+                    android:textColor="@color/com_facebook_blue"
+                    android:elevation="5dp"
+                    android:transitionName="transition_next_btn"
+                    android:onClick="call2rdSignupScreen" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/setup_login_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Đăng nhập"
+                    android:background="#0000"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="20dp"
+                    android:elevation="5dp"
+                    android:transitionName="transition_login_btn"/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        <RelativeLayout
+            android:id="@+id/set_up_profile_progress_bar_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/white_circle"
+            android:elevation="8dp">
+
+            <ProgressBar
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:layout_column="2"
+    android:id="@+id/relative_item_user">
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/product_detail_bg">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/product_detail_profile_img"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/profile_img"
+            app:civ_border_color="@color/white" />
+
+        <TextView
+            android:id="@+id/product_detail_full_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/product_detail_profile_img"
+            android:fontFamily="@font/muli_black"
+            android:includeFontPadding="false"
+            android:text="Dat214"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <RatingBar
+            android:id="@+id/product_detail_rating"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/product_detail_full_name"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/product_detail_profile_img"
+            android:rating="4"
+            android:theme="@style/RatingBar" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/product_detail_follow_up_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/button_follow_up_bg"
+            android:text="Quan tâm"
+            android:textColor="@color/white" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/product_detail_profile_img"
+            android:layout_marginTop="5dp"
+            android:background="@color/white" />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
